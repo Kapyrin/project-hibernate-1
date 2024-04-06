@@ -1,4 +1,4 @@
-RPG admin panel.
+# RPG admin panel.
 
 You can choose, add, modify or remove accounts.
 
